@@ -1,2 +1,2 @@
 # QLearning-Project
-Implemented Reinforcement Learning Algorithm to determine best move given location
+Implemented a Reinforcement Learning Algorithm called Qlearning that determines best move for a player to go given location in a grid
